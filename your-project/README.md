@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Kerim Basbug]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Jun 19, Barcelona]*
 
 ## Content
 - [Project Description](#project-description)
