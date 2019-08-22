@@ -71,4 +71,4 @@ I used trello for this project
 ## Links
 [Repository](https://github.com/kerimbasbug/Project-Week-8-Final-Project)  
 [Slides](https://www.canva.com/design/DACRMB0MpQM/HDpikShcf53gK5aySE2tXA/view?utm_content=DACRMB0MpQM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/xlbpCA3f/final-project)  
