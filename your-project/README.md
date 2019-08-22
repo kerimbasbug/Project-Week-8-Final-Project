@@ -73,5 +73,5 @@ I used trello for this project
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Slides](https://www.canva.com/design/DACRMB0MpQM/HDpikShcf53gK5aySE2tXA/view?utm_content=DACRMB0MpQM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
 [Trello](https://trello.com/en)  
