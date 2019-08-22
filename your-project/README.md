@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Kerim Basbug]*
+*Kerim Basbug*
 
-*[Data Jun 19, Barcelona]*
+*Data Jun 19, Barcelona*
 
 ## Content
 - [Project Description](#project-description)
@@ -21,28 +21,18 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
-
-<a name="hypotheses-/-questions"></a>
-
-## Hypotheses / Questions
-* What data/business/research/personal question you would like to answer? 
-* What is he context for the question and the scientific or business application? 
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+Yelper helps you to find restaurants according to your "taste". Just pick couple of your favorite food photos and discover new restaurants.
 
 <a name="dataset"></a>
 
 ## Dataset
-* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
-* Did you build your own datset? If so, did you use an API? If so, provide the scripts in your repo.
-* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
+Yelp dataset used for the restaurant data in this project. 
+Google Vision API used for the food recognition.
 
 <a name="cleaning"></a>
 
 ## Cleaning
-Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did, etc, as well as your thinking process.
+Data from Yelp contained around 200,000 businesses with 6 million reviews. During the project I decided to use only data from Phoenix.
 
 <a name="analysis"></a>
 
@@ -51,12 +41,6 @@ Describe your full process of data wrangling and cleaning. Document why you chos
 * Document each step of your data exploration and analysis.
 * Include charts to demonstrate the effect of your work. 
 * If you use ML in your final project, describe your feature selection process.
-
-<a name="model-training-and-evaluation"></a>
-
-## Model Training and Evaluation
-*Include this section only if you chose to include ML in your project.*
-* Describe how you trained your model, the results you obtained, and how you evaluated those results.
 
 <a name="conclusion"></a>
 
@@ -68,7 +52,9 @@ Describe your full process of data wrangling and cleaning. Document why you chos
 <a name="future-work"></a>
 
 ## Future Work
-Address any questions you were unable to answer, or any next steps or future extensions to your project.
+Extending model to other cities.  
+Finding images from restaurants that are similar to your favorite photos.  
+Filtering for restaurant attiributes.
 
 <a name="workflow"></a>
 
@@ -79,7 +65,7 @@ How will you test the success of our analysis or algorithm?
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+I used trello for this project
 
 <a name="links"></a>
 
